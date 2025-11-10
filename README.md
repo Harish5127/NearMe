@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ## Map.html
-```
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -103,7 +103,7 @@ Execute the programs and publish them.
 </html>
 ```
 ## ramanujar.html
-
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -140,9 +140,9 @@ Execute the programs and publish them.
   <a href="map.html">⬅ Back to Map</a>
 </body>
 </html>
-
+```
 ## acsmahal.html
-
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -179,11 +179,17 @@ Execute the programs and publish them.
   <a href="map.html">⬅ Back to Map</a>
 </body>
 </html>
-
+```
 ## Output
+## map.html
 ![alt text](<Screenshot 2025-11-10 101402.png>)
+## vandalur.html
+![alt text](<Screenshot 2025-11-10 110752.png>)
+## zoho.html
 ![alt text](<Screenshot 2025-11-10 101525.png>)
+## acsmahal.html
 ![alt text](<Screenshot 2025-11-10 101820.png>)
+## ramanujar.html
 ![alt text](sri-ramanujar-engineering-college-chennai-3tzfmaqsth.avif)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

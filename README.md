@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 10/11/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -26,6 +26,8 @@ Execute the programs and publish them.
 
 ## CODE
 ## Map.html
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -61,9 +63,9 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
-```
+
 ## vandalur.html
-```python
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,9 +102,9 @@ Execute the programs and publish them.
   <a href="map.html">⬅ Back to Map</a>
 </body>
 </html>
-```
+
 ## ramanujar.html
-```python
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -139,9 +141,9 @@ Execute the programs and publish them.
   <a href="map.html">⬅ Back to Map</a>
 </body>
 </html>
-```
+
 ## acsmahal.html
-```python
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -178,13 +180,11 @@ Execute the programs and publish them.
   <a href="map.html">⬅ Back to Map</a>
 </body>
 </html>
-```
+
 ## Output
 ![alt text](<Screenshot 2025-11-10 101402.png>)
-c:\Users\admin\OneDrive\图片\Screenshots\Screenshot 2025-11-10 101457.png
 ![alt text](<Screenshot 2025-11-10 101525.png>)
-
-
-
+![alt text](<Screenshot 2025-11-10 101820.png>)
+![alt text](sri-ramanujar-engineering-college-chennai-3tzfmaqsth.avif)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.

@@ -26,8 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ## Map.html
-
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -63,9 +62,9 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
-
+```
 ## vandalur.html
-
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +101,7 @@ Execute the programs and publish them.
   <a href="map.html">⬅ Back to Map</a>
 </body>
 </html>
-
+```
 ## ramanujar.html
 
 <!DOCTYPE html>
